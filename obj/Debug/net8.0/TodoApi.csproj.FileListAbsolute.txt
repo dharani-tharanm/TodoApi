@@ -134,3 +134,5 @@ C:\Users\z004yw6y\Git\Devops\Deployment_folder\TodoApi\obj\Debug\net8.0\refint\T
 C:\Users\z004yw6y\Git\Devops\Deployment_folder\TodoApi\obj\Debug\net8.0\TodoApi.pdb
 C:\Users\z004yw6y\Git\Devops\Deployment_folder\TodoApi\obj\Debug\net8.0\TodoApi.genruntimeconfig.cache
 C:\Users\z004yw6y\Git\Devops\Deployment_folder\TodoApi\obj\Debug\net8.0\ref\TodoApi.dll
+C:\Users\z004yw6y\Git\Devops\Deployment_folder\TodoApi\bin\Debug\net8.0\Npgsql.dll
+C:\Users\z004yw6y\Git\Devops\Deployment_folder\TodoApi\bin\Debug\net8.0\Npgsql.EntityFrameworkCore.PostgreSQL.dll

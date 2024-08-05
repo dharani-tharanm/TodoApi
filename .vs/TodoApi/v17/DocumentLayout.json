@@ -7,20 +7,20 @@
       "RelativeMoniker": "D:0:0:{2B08665C-037F-4CBD-BF01-E8716D6CF9A2}|TodoApi.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2B08665C-037F-4CBD-BF01-E8716D6CF9A2}|TodoApi.csproj|c:\\users\\z004yw6y\\git\\devops\\deployment_folder\\todoapi\\models\\todocontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2B08665C-037F-4CBD-BF01-E8716D6CF9A2}|TodoApi.csproj|solutionrelative:models\\todocontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{2B08665C-037F-4CBD-BF01-E8716D6CF9A2}|TodoApi.csproj|c:\\users\\z004yw6y\\git\\devops\\deployment_folder\\todoapi\\controllers\\taskscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2B08665C-037F-4CBD-BF01-E8716D6CF9A2}|TodoApi.csproj|solutionrelative:controllers\\taskscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2B08665C-037F-4CBD-BF01-E8716D6CF9A2}|TodoApi.csproj|c:\\users\\z004yw6y\\git\\devops\\deployment_folder\\todoapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{2B08665C-037F-4CBD-BF01-E8716D6CF9A2}|TodoApi.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+      "AbsoluteMoniker": "D:0:0:{2B08665C-037F-4CBD-BF01-E8716D6CF9A2}|TodoApi.csproj|c:\\users\\z004yw6y\\git\\devops\\deployment_folder\\todoapi\\models\\todocontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2B08665C-037F-4CBD-BF01-E8716D6CF9A2}|TodoApi.csproj|solutionrelative:models\\todocontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{2B08665C-037F-4CBD-BF01-E8716D6CF9A2}|TodoApi.csproj|c:\\users\\z004yw6y\\git\\devops\\deployment_folder\\todoapi\\models\\todoitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{2B08665C-037F-4CBD-BF01-E8716D6CF9A2}|TodoApi.csproj|solutionrelative:models\\todoitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2B08665C-037F-4CBD-BF01-E8716D6CF9A2}|TodoApi.csproj|c:\\users\\z004yw6y\\git\\devops\\deployment_folder\\todoapi\\controllers\\taskscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2B08665C-037F-4CBD-BF01-E8716D6CF9A2}|TodoApi.csproj|solutionrelative:controllers\\taskscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{2B08665C-037F-4CBD-BF01-E8716D6CF9A2}|TodoApi.csproj|c:\\users\\z004yw6y\\git\\devops\\deployment_folder\\todoapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{2B08665C-037F-4CBD-BF01-E8716D6CF9A2}|TodoApi.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     }
   ],
   "DocumentGroupContainers": [
@@ -30,43 +30,30 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Users\\z004yw6y\\Git\\Devops\\Deployment_folder\\TodoApi\\appsettings.json",
-              "RelativeDocumentMoniker": "appsettings.json",
-              "ToolTip": "C:\\Users\\z004yw6y\\Git\\Devops\\Deployment_folder\\TodoApi\\appsettings.json",
-              "RelativeToolTip": "appsettings.json",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-08-05T05:20:39.562Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
               "Title": "TodoContext.cs",
               "DocumentMoniker": "C:\\Users\\z004yw6y\\Git\\Devops\\Deployment_folder\\TodoApi\\Models\\TodoContext.cs",
               "RelativeDocumentMoniker": "Models\\TodoContext.cs",
               "ToolTip": "C:\\Users\\z004yw6y\\Git\\Devops\\Deployment_folder\\TodoApi\\Models\\TodoContext.cs",
               "RelativeToolTip": "Models\\TodoContext.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-08-05T05:22:43.376Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 1,
               "Title": "TasksController.cs",
               "DocumentMoniker": "C:\\Users\\z004yw6y\\Git\\Devops\\Deployment_folder\\TodoApi\\Controllers\\TasksController.cs",
               "RelativeDocumentMoniker": "Controllers\\TasksController.cs",
               "ToolTip": "C:\\Users\\z004yw6y\\Git\\Devops\\Deployment_folder\\TodoApi\\Controllers\\TasksController.cs",
               "RelativeToolTip": "Controllers\\TasksController.cs",
-              "ViewState": "AQIAABAAAAAAAAAAAAAQwAkAAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAuAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-08-05T05:14:06.377Z",
               "EditorCaption": ""
@@ -79,9 +66,22 @@
               "RelativeDocumentMoniker": "Program.cs",
               "ToolTip": "C:\\Users\\z004yw6y\\Git\\Devops\\Deployment_folder\\TodoApi\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAC0AAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAiAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-08-05T05:13:03.948Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\z004yw6y\\Git\\Devops\\Deployment_folder\\TodoApi\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\z004yw6y\\Git\\Devops\\Deployment_folder\\TodoApi\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-08-05T05:20:39.562Z",
               "EditorCaption": ""
             },
             {
